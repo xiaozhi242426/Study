@@ -1,0 +1,16 @@
+D:\Desktop\加密\SQLITE\SQLITE\bin\Debug\SQLITE.exe.config
+D:\Desktop\加密\SQLITE\SQLITE\bin\Debug\SQLITE.exe
+D:\Desktop\加密\SQLITE\SQLITE\bin\Debug\SQLITE.pdb
+D:\Desktop\加密\SQLITE\SQLITE\obj\Debug\SQLITE.csproj.AssemblyReference.cache
+D:\Desktop\加密\SQLITE\SQLITE\obj\Debug\SQLITE.Properties.Resources.resources
+D:\Desktop\加密\SQLITE\SQLITE\obj\Debug\SQLITE.csproj.GenerateResource.cache
+D:\Desktop\加密\SQLITE\SQLITE\obj\Debug\SQLITE.csproj.CoreCompileInputs.cache
+D:\Desktop\加密\SQLITE\SQLITE\obj\Debug\SQLITE.exe
+D:\Desktop\加密\SQLITE\SQLITE\obj\Debug\SQLITE.pdb
+D:\Desktop\加密\SQLITE\SQLITE\bin\Debug\System.Data.SQLite.dll
+D:\Desktop\加密\SQLITE\SQLITE\bin\Debug\System.Data.SQLite.xml
+D:\Desktop\加密\SQLITE\SQLITE\obj\Debug\SQLITE.csproj.Up2Date
+D:\Desktop\加密\SQLITE\SQLITE\obj\Debug\SQLITE.frmSqlite.resources
+D:\Desktop\加密\SQLITE\SQLITE\obj\Debug\SQLITE.UI.FrmCreatTable.resources
+D:\Desktop\加密\SQLITE\SQLITE\obj\Debug\SQLITE.UI.FrmSelectTab.resources
+D:\Desktop\加密\SQLITE\SQLITE\obj\Debug\SQLITE.UI.FrmAddData.resources
