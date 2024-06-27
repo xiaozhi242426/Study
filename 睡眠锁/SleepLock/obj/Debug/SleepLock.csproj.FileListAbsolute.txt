@@ -1,0 +1,11 @@
+D:\Desktop\加密\睡眠锁\SleepLock\bin\Debug\SleepLock.exe.config
+D:\Desktop\加密\睡眠锁\SleepLock\bin\Debug\SleepLock.exe
+D:\Desktop\加密\睡眠锁\SleepLock\bin\Debug\SleepLock.pdb
+D:\Desktop\加密\睡眠锁\SleepLock\obj\Debug\SleepLock.csproj.AssemblyReference.cache
+D:\Desktop\加密\睡眠锁\SleepLock\obj\Debug\SleepLock.FrmLockSleep.resources
+D:\Desktop\加密\睡眠锁\SleepLock\obj\Debug\SleepLock.Properties.Resources.resources
+D:\Desktop\加密\睡眠锁\SleepLock\obj\Debug\SleepLock.csproj.GenerateResource.cache
+D:\Desktop\加密\睡眠锁\SleepLock\obj\Debug\SleepLock.csproj.CoreCompileInputs.cache
+D:\Desktop\加密\睡眠锁\SleepLock\obj\Debug\SleepLock.exe
+D:\Desktop\加密\睡眠锁\SleepLock\obj\Debug\SleepLock.pdb
+D:\Desktop\加密\睡眠锁\SleepLock\obj\Debug\SleepLock.UI.FrmText.resources
