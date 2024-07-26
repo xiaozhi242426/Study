@@ -141,7 +141,10 @@ namespace SQLITE.UI
             }
         }
 
-
+        /// <summary>
+        /// 查询数据
+        /// </summary>
+        /// <param name="frmSelectTable"></param>
         public static void AddData(FrmSelectTab frmSelectTable)
         {
             try
