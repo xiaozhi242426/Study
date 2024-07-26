@@ -1,0 +1,14 @@
+D:\Desktop\CSharp\定时器测试\Timer_Test\bin\Debug\net8.0\Timer_Test.exe
+D:\Desktop\CSharp\定时器测试\Timer_Test\bin\Debug\net8.0\Timer_Test.deps.json
+D:\Desktop\CSharp\定时器测试\Timer_Test\bin\Debug\net8.0\Timer_Test.runtimeconfig.json
+D:\Desktop\CSharp\定时器测试\Timer_Test\bin\Debug\net8.0\Timer_Test.dll
+D:\Desktop\CSharp\定时器测试\Timer_Test\bin\Debug\net8.0\Timer_Test.pdb
+D:\Desktop\CSharp\定时器测试\Timer_Test\obj\Debug\net8.0\Timer_Test.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desktop\CSharp\定时器测试\Timer_Test\obj\Debug\net8.0\Timer_Test.AssemblyInfoInputs.cache
+D:\Desktop\CSharp\定时器测试\Timer_Test\obj\Debug\net8.0\Timer_Test.AssemblyInfo.cs
+D:\Desktop\CSharp\定时器测试\Timer_Test\obj\Debug\net8.0\Timer_Test.csproj.CoreCompileInputs.cache
+D:\Desktop\CSharp\定时器测试\Timer_Test\obj\Debug\net8.0\Timer_Test.dll
+D:\Desktop\CSharp\定时器测试\Timer_Test\obj\Debug\net8.0\refint\Timer_Test.dll
+D:\Desktop\CSharp\定时器测试\Timer_Test\obj\Debug\net8.0\Timer_Test.pdb
+D:\Desktop\CSharp\定时器测试\Timer_Test\obj\Debug\net8.0\Timer_Test.genruntimeconfig.cache
+D:\Desktop\CSharp\定时器测试\Timer_Test\obj\Debug\net8.0\ref\Timer_Test.dll

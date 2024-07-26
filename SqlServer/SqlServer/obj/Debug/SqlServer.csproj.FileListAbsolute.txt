@@ -1,0 +1,10 @@
+D:\Desktop\CSharp\SqlServer\SqlServer\bin\Debug\SqlServer.exe.config
+D:\Desktop\CSharp\SqlServer\SqlServer\bin\Debug\SqlServer.exe
+D:\Desktop\CSharp\SqlServer\SqlServer\bin\Debug\SqlServer.pdb
+D:\Desktop\CSharp\SqlServer\SqlServer\obj\Debug\SqlServer.csproj.AssemblyReference.cache
+D:\Desktop\CSharp\SqlServer\SqlServer\obj\Debug\SqlServer.FrmSql.resources
+D:\Desktop\CSharp\SqlServer\SqlServer\obj\Debug\SqlServer.Properties.Resources.resources
+D:\Desktop\CSharp\SqlServer\SqlServer\obj\Debug\SqlServer.csproj.GenerateResource.cache
+D:\Desktop\CSharp\SqlServer\SqlServer\obj\Debug\SqlServer.csproj.CoreCompileInputs.cache
+D:\Desktop\CSharp\SqlServer\SqlServer\obj\Debug\SqlServer.exe
+D:\Desktop\CSharp\SqlServer\SqlServer\obj\Debug\SqlServer.pdb

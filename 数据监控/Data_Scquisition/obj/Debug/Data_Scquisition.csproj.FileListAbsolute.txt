@@ -1,0 +1,15 @@
+D:\Desktop\CSharp\数据监控\Data_Scquisition\bin\Debug\Data_Scquisition.exe.config
+D:\Desktop\CSharp\数据监控\Data_Scquisition\bin\Debug\Data_Scquisition.exe
+D:\Desktop\CSharp\数据监控\Data_Scquisition\bin\Debug\Data_Scquisition.pdb
+D:\Desktop\CSharp\数据监控\Data_Scquisition\bin\Debug\UI.pdb
+D:\Desktop\CSharp\数据监控\Data_Scquisition\obj\Debug\Data_Scquisition.csproj.AssemblyReference.cache
+D:\Desktop\CSharp\数据监控\Data_Scquisition\obj\Debug\Data_Scquisition.Properties.Resources.resources
+D:\Desktop\CSharp\数据监控\Data_Scquisition\obj\Debug\Data_Scquisition.csproj.GenerateResource.cache
+D:\Desktop\CSharp\数据监控\Data_Scquisition\obj\Debug\Data_Scquisition.csproj.CoreCompileInputs.cache
+D:\Desktop\CSharp\数据监控\Data_Scquisition\obj\Debug\Data_Scq.DF0DEADA.Up2Date
+D:\Desktop\CSharp\数据监控\Data_Scquisition\obj\Debug\Data_Scquisition.exe
+D:\Desktop\CSharp\数据监控\Data_Scquisition\obj\Debug\Data_Scquisition.pdb
+D:\Desktop\CSharp\数据监控\Data_Scquisition\bin\Debug\UI.dll
+D:\Desktop\CSharp\数据监控\Data_Scquisition\bin\Debug\UI.dll.config
+D:\Desktop\CSharp\数据监控\Data_Scquisition\bin\Debug\Model.dll
+D:\Desktop\CSharp\数据监控\Data_Scquisition\bin\Debug\Model.pdb
